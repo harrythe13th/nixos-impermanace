@@ -1,2 +1,0 @@
-# nixos-impermanace
-Devops Project
